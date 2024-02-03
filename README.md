@@ -28,7 +28,7 @@ Contributions are welcome! If you have ideas for improvements or would like to a
 
 ## Credits
 
-- Developed by [github.com/codebydeveloper]
+- Developed by [Md Ansh](https://github.com/codebydeveloper)
 
 
 Spread love and friendship! ❤️🤝
