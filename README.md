@@ -21,6 +21,7 @@ Khushi, Be My Best Friend is a charming website designed to express friendship a
 ## Usage
 
 Visit [Khushi, Be My Best Friend](https://codebydeveloper.github.io/khushi_bestfrnd/) to experience the warmth of friendship. Interact with the elements on the page to reveal messages and enjoy the music.
+To run this project on PC link script.js with html file instead of mobile.js
 
 ## Contributions
 
